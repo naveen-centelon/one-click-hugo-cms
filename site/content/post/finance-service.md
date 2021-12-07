@@ -4,10 +4,7 @@ date: 2021-11-30T08:25:31.116Z
 description: The Government initiated the National Mission for Financial
   Inclusion (NMFI), namely, Pradhan Mantri Jan Dhan Yojana (PMJDY) in August,
   2014 to provide universal banking services for every unbaked household, based
-  on the guiding principles of banking the unbanked, securing the unsecured,
-  funding the unfunded and serving unserved and underserved areas. A digital
-  pipeline has been laid for the implementation of PMJDY through linking of
-  Jan-Dhan account with mobile and Aadhaar [Jan Dhan-Aadhaar-Mobile (JAM)].
+  on the guiding principles of banking the unbanked,.
 image: https://financialservices.gov.in/sites/default/files/emblem-dark.png
 ---
 <!--StartFragment-->
